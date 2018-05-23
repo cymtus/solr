@@ -1,2 +1,2 @@
 # solr
-solr practice
+solr的demo练习
